@@ -19,6 +19,11 @@ exports.intexp = function (integer) {
         : _fallbackDecompose(integer);
 };
 
+/**
+ * @param {int} coefficient
+ * @param {int} exponent
+ * @return {int}
+ */
 exports.ldexp = function (coefficient, exponent) {
     return coefficient * Math.pow(2, exponent);
 };
