@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "frexp for integers: decomposes integer into coefficient and power of 2",
   "main": "index.js",
+  "types": "index.d.ts",
   "author": "Antoine Beauvais-Lacasse <antoine.beaulac@gmail.com>",
   "license": "ISC",
   "keywords": [
