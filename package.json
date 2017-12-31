@@ -1,0 +1,14 @@
+{
+  "name": "intexp",
+  "version": "1.0.0",
+  "description": "frexp for integers",
+  "main": "index.js",
+  "author": "Antoine Beauvais-Lacasse <antoine.beaulac@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  }
+}
